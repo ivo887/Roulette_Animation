@@ -41,7 +41,7 @@ public class Main extends JFrame {
                 Color.RED, Color.BLACK, Color.RED, Color.BLACK, Color.RED, Color.BLACK,
                 Color.RED, Color.BLACK, Color.RED, Color.BLACK, Color.RED, Color.BLACK,
                 Color.RED, Color.BLACK, Color.RED, Color.BLACK, Color.RED, Color.BLACK
-                 // 0
+                 // 01
         };
 
         @Override
